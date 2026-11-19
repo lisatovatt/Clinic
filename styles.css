@@ -22,3 +22,4 @@ h1 { font-size: 2rem; line-height: 1.3; }
 input, select, button { max-width: 100%; }
 nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
 header, main, footer { padding: 0 1rem; }
+#prices li { color: #0b6e4f; font-weight: 700; }
